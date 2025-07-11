@@ -1,0 +1,19 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+{% include base_path %}
+
+{% for post in site.research reversed %}
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline">
+      {{ post.title }}
+    </h2>
+    <div class="archive__item-content" itemprop="text">
+      {{ post.content }}
+    </div>
+  </article>
+{% endfor %}
