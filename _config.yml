@@ -22,7 +22,7 @@ repository               : "MarcoCiapparelli/MarcoCiapparelli.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "propic1.png"
   name             : "Marco Ciapparelli"
   pronouns         : # example: "she/her"  
   bio              : "Cognitive science, computational modeling, coffee."
