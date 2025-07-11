@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "marcociapparelli.bsky‬" # Replace this with you Bluesky username
+  bluesky          : "‪@marcociapparelli.bsky.social‬" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -219,10 +219,10 @@ collections:
 # [custom addition: start] ------------------------------------------------------------
   research:
     output: true
-    permalink: /:collection/:name/
+    permalink: /:collection/:path/
   resources:
     output: true
-    permalink: /:collection/:name/
+    permalink: /:collection/:path/
   # [custom addition: end] ------------------------------------------------------------
   teaching:
     output: true
@@ -248,7 +248,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      # share: true
   # _resources
   - scope:
       path: ""
@@ -256,7 +256,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      # share: true
   # [custom addition: end] ------------------------------------------------------------
   # _posts
   - scope:
