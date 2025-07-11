@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "https://bsky.app/profile/marcociapparelli.bsky.social‬" # Replace this with you Bluesky username
+  bluesky          : "marcociapparelli.bsky‬" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -216,13 +216,15 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+# [custom addition: start] ------------------------------------------------------------
   research:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:name/
   resources:
+    output: true
+    permalink: /:collection/:name/
+  # [custom addition: end] ------------------------------------------------------------
+  teaching:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -238,17 +240,7 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  # [custom addition: start] ------------------------------------------------------------
   # _research
   - scope:
       path: ""
@@ -265,6 +257,18 @@ defaults:
       layout: single
       author_profile: true
       share: true
+  # [custom addition: end] ------------------------------------------------------------
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""
