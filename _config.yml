@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Marco Ciapparelli"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Marco Ciapparelli"
 description              : &description "personal website"
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "marcociapparelli‬" # Replace this with you Bluesky username
+  bluesky          : "marcociapparelli.bsky.app‬" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
