@@ -1,6 +1,7 @@
 ---
 title: "Research output"
 excerpt: ""
+permalink: /research/publication_list.md
 collection: research
 ---
 
