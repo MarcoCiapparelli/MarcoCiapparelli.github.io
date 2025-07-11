@@ -1,3 +1,10 @@
+---
+title: ""
+collection: research
+permalink: /teaching/publication_list
+---
+
+
 Papers & Preprints
 ======
 **Ciapparelli, M.**, Marelli, M., Graves, W., & Reverberi, C. (2025). Characterizing semantic compositions in the brain: A model-driven fMRI re-analysis. *bioRxiv*, 2025-04.
