@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Marco Ciapparelli and I'm a researcher in cognitive science. I combine computational modeling with behavioral and neuroimaging data to study how humans learn, represent, and combine concepts. Because machines have gotten quite good at that, I'm also interested in studying how they do it.
+Hi, my name is Marco Ciapparelli and I'm a researcher in cognitive science. I combine computational modeling with behavioral and neuroimaging data to study how humans learn, represent, and combine concepts. Because machines have gotten quite good at that, I'm also interested in how they do it.
 
 About me
 ======
