@@ -1,0 +1,4 @@
+*  _config.yml: backbone of the personal page
+*  _data/navigation.yml: specifies subpages (e.g., research, resources) in the personal page in order of appearance. any field added here should be referenced in the _config.yml and listed amng the others. An exception is CV, which is direnctly referenced as a path to main
+*  _pages/subpage.html: the _pages folder contains .html files of each subpage, which basically 'point to' the content of dedicated foleds in main (e.g., the _pages/resources.html points to _resources and specifies what to do with the files in that folder, such as listing all of them)
+*  _subpage: folder corresponding to a specific subpage (e.g., _resources) which contains the entries of that page, usually markdown (.md) files that define the page or that are specific entries
