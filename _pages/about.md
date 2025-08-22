@@ -15,6 +15,7 @@ I am currently a postdoc at the University of Milano-Bicocca working with [Carlo
 
 News
 ======
+*  🎉 (08/2025) Our work [Characterizing semantic compositions in the brain: A model-driven fMRI re-analysis](https://doi.org/10.1101/2025.04.25.650708) has been accepted for publication in Cerebral Cortex!
 *  🛠️ (07/2025) Notebook on large language models (and some vision) made available! [[repo](https://github.com/MarcoCiapparelli/LLMs-for-psyling)]
 *  🛠️🛠️🎤 (06/2025) I gave a workshop on LLMs for (psycho)linguistics ([notebook](https://drive.google.com/file/d/1NkIgEsPuNN1uiN4-kM8r-XluBqtBX17V/view?usp=sharing)), a workshop on Python for linguists ([notebook](https://drive.google.com/file/d/1EZxCNrMbj8Au8LIXJsZjqoKomIwMTvUA/view?usp=sharing)) and presented my work; all at the [MEDAL summer school in computational modelling](https://medal.ut.ee/event/medal-summer-school-in-computational-linguistics/).
 *  🎤 (05/2025) I presented a poster on language-vision alignment at [CAOs 2025](https://event.unitn.it/cimec-caos/)
