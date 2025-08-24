@@ -6,7 +6,7 @@ permalink: /teaching/publication_list
 
 
 ## Papers & Preprints
-*  **Ciapparelli, M.**, Marelli, M., Graves, W., & Reverberi, C. (2025). Characterizing semantic compositions in the brain: A model-driven fMRI re-analysis. *bioRxiv*, 2025-04.
+*  **Ciapparelli, M.**, Marelli, M., Graves, W., & Reverberi, C. (accepted). Characterizing semantic compositions in the brain: A model-driven fMRI re-analysis. *Cerebral Cortex*.
 [[preprint](https://doi.org/10.1101/2025.04.25.650708)]
 *  **Ciapparelli, M.**, Zarbo, C., & Marelli, M. (2025). Conceptual Combination in Large Language Models: Uncovering Implicit Relational Interpretations in Compound Words With Contextualized Word Embeddings. *Cognitive Science*, 49(3), e70048.
 [[paper](https://doi.org/10.1111/cogs.70048)]
