@@ -6,8 +6,7 @@ permalink: /teaching/publication_list
 
 
 ## Papers & Preprints
-*  **Ciapparelli, M.**, Marelli, M., Graves, W., & Reverberi, C. (accepted). Compositionality in the semantic network: a model-driven representational similarity analysis. *Cerebral Cortex*.
-[[paper](https://doi.org/10.1093/cercor/bhaf246)]
+*  **Ciapparelli, M.**, Marelli, M., Graves, W., & Reverberi, C. (2025). Compositionality in the semantic network: a model-driven representational similarity analysis. *Cerebral Cortex*, 35(8), bhaf246. [[paper](https://doi.org/10.1093/cercor/bhaf246)]
 *  **Ciapparelli, M.**, Zarbo, C., & Marelli, M. (2025). Conceptual Combination in Large Language Models: Uncovering Implicit Relational Interpretations in Compound Words With Contextualized Word Embeddings. *Cognitive Science*, 49(3), e70048.
 [[paper](https://doi.org/10.1111/cogs.70048)]
 *  **Ciapparelli, M.** (2025). Multiple routes to conceptual combination: a distributional modeling approach.
