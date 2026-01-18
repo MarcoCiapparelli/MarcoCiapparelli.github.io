@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Marco Ciapparelli and I'm a researcher in cognitive science. I combine computational modeling with behavioral and neuroimaging data to study how humans learn, represent, and combine concepts. Because machines have gotten quite good at that, I'm also interested in how they do it.
+Hi, my name is Marco Ciapparelli and I'm a researcher in cognitive science. I combine computational modeling with behavioral and neuroimaging data to study how humans and machines learn, organize, and deploy knowledge.
 
 About me
 ======
-I am currently a postdoc at the University of Milano-Bicocca working with [Carlo Reverberi](https://scholar.google.com/citations?user=TeyiNGIAAAAJ&hl=en) on the neural correlates (fMRI) of conceptual combination in language and vision modalities, and with the team of [BraveNewWord](https://bravenewword.unimib.it/) on novel word processing. Before that, I received my PhD in Psychology, Linguistics and Cognitive Neuroscience at the University of Milano-Bicocca, where I worked on computational models of conceptual combination with [Marco Marelli](https://www.marcomarelli.net/). During my PhD, I spent a visiting period at the [Thompson-Schill lab](https://web.sas.upenn.edu/schill-lab/) at UPenn, where I investigated how the alignment of language and vision may aid zero-shot learning of novel concepts. Before my PhD, I completed my MS and BS in Psychology at the University of Milano-Bicocca.
+I am currently a postdoc in the [BottiniLab](http://www.bottinilab.com/) at the Center for Mind/Brain Sciences (CIMeC) of the University of Trento. 
+
+Before that, I received my PhD in Psychology, Linguistics and Cognitive Neuroscience at the University of Milano-Bicocca, where I worked on computational models of conceptual combination and novel word processing with [Marco Marelli](https://www.marcomarelli.net/) and the team of [BraveNewWord](https://bravenewword.unimib.it/), and with [Carlo Reverberi](https://scholar.google.com/citations?user=TeyiNGIAAAAJ&hl=en) on the neural correlates (fMRI) of multimodal conceptual combination. During my PhD, I spent a visiting period at the [Thompson-Schill lab](https://web.sas.upenn.edu/schill-lab/) at UPenn, where I investigated zero-shot learning of novel concepts. Before my PhD, I completed my MS and BS in Psychology at the University of Milano-Bicocca.
 
 News
 ======
