@@ -25,11 +25,11 @@ author:
   avatar           : "propic1.jpeg"
   name             : "Marco Ciapparelli"
   pronouns         : # example: "she/her"  
-  bio              : "Cognitive science, computational modeling, coffee."
+  bio              : # "Cognitive science, computational modeling, coffee."
   location         : "Italy"
-  employer         : "University of Milano-Bicocca"
+  employer         : "Center for Mind/Brain Sciences (CIMeC), University of Trento"
   uri              : # URL
-  email            : "marco.ciapparelli@unimib.it" 
+  email            : "marco.ciapparelli@unitn.it" 
 
   # Academic websites
   academia         : # URL
