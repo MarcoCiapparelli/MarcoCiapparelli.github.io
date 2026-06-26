@@ -16,8 +16,6 @@ permalink: /teaching/publication_list
 [[paper](https://doi.org/10.1016/j.jml.2020.104194)]
 
 ## Book chapters & Textbook contributions
-*  **Ciapparelli, M.**, & de Varda, A. G. (2025). The BERT Model Family and Encoder-Only Transformers.
-[[chapter](https://doi.org/10.1016/B978-0-323-95504-1.00507-X)]
-*  de Varda, A. G., & **Ciapparelli, M.** (2024). Word Semantic Similarity Norms.
-[[chapter](https://doi.org/10.1016/B978-0-323-95504-1.00176-9)]
+*  **Ciapparelli, M.**, & Gregor de Varda, A. (2026). The BERT Model Family and Encoder-Only Transformers. In: Nesi, H., Milin, P. (Eds.), *International Encyclopedia of Language and Linguistics, 3e*. Vol 12., pp. 689–694. [[chapter](https://dx.doi.org/10.1016/B978-0-323-95504-1.00507-X)]
+*  de Varda, A. G., & **Ciapparelli, M.** (2026). Word Semantic Similarity Norms. In: Nesi, H., Milin, P. (Eds.), *International Encyclopedia of Language and Linguistics, 3e*. Vol 12., pp. 780–784. [[chapter](https://doi.org/10.1016/B978-0-323-95504-1.00176-9)]
 
