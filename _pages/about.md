@@ -18,7 +18,7 @@ Before that, I received my PhD in Psychology, Linguistics and Cognitive Neurosci
 News
 ======
 *  [06/2026] Our work [Zero-shot learning of naturalistic concepts via conceptual systems alignment](https://osf.io/preprints/psyarxiv/4e8un_v1) is out as a preprint!
-*  [06/2026] I gave a spotlight talk & presented a poster (both on zero-shot learning) at the [7th International Conference on the Mathematics of Neuroscience and AI(https://www.neuromonster.org)]!
+*  [06/2026] I gave a spotlight talk & presented a poster (both on zero-shot learning) at the [7th International Conference on the Mathematics of Neuroscience and AI](https://www.neuromonster.org)!
 *  [01/2026] I joined the [BottiniLab](http://www.bottinilab.com)!
 *  [09/2025] Our work [Compositionality in the semantic network: a model-driven representational similarity analysis](https://doi.org/10.1093/cercor/bhaf246) is out in Cerebral Cortex!
 *  [08/2025] Gave a seminar on LLMs in psychology at the [Social Connections and Well-being in the Digital era](https://cwde.lakecomoschool.org/) summer school
